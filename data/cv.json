@@ -6,15 +6,15 @@
         "location": "Yogyakarta, Indonesia",
         "email": "muhazka@students.amikom.ac.id",
         "phone": "+62 858-8687-7910",
-        "website": "https://mohka.vercel.app",
-        "photoText": "DMA",
+        "website": "https://ikedz.vercel.app",
+        "photoText": "APW",
         "photo": "/images/profile.jpg",
         "summary": "Saya adalah mahasiswa Informatika yang memiliki minat pada pengembangan aplikasi web, REST API, desain antarmuka, dan integrasi teknologi AI. Saya terbiasa membangun project menggunakan JavaScript, Node.js, Express.js, React.js, dan database dasar."
     },
     "socials": [
         {
             "label": "GitHub",
-            "url": "https://github.com/mehmedazka"
+            "url": "https://github.com/Iskedzy"
         },
         {
             "label": "LinkedIn",
@@ -22,7 +22,7 @@
         },
         {
             "label": "Instagram",
-            "url": "https://instagram.com/mhmdzkaa._"
+            "url": "https://instagram.com/ikedz.co"
         }
     ],
     "stats": [
